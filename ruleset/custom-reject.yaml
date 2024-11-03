@@ -1,3 +1,3 @@
 # custom reject rules
 payload:
-    - DOMAIN-SUFFIX, baidu.com
+    - 'DOMAIN-SUFFIX,baidu.com'
